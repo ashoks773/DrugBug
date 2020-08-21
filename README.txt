@@ -1,7 +1,7 @@
 Download the complete program from
 http://metagenomics.iiserb.ac.in/drugbug/download.php
 
-Please note that this stand alone version of the tool is for the testing purpose and this will be assessible only to reviwers. The distribution of complete stand alone package for the users with all the suporting custom made databases and tools will be available soon once the manuscript is accepted. 
+Please note that this stand alone version of the tool is for the testing purpose. Complete excecutables can be downloaded from the metabiosys website.
 NOTE: Only input.sdf provided with this package can be used as a inputfile. (Only sample database for this molecule provided for reviewers to check the functionality)
 Program requires OpenBabel as a prerequisite please make sure that it is accessible from working directory. For downloading and installing OpenBabel package please visit http://sourceforge.net/projects/openbabel/
 
